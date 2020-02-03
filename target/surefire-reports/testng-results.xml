@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="66" started-at="2020-01-20T20:48:47 EST" finished-at="2020-01-20T20:48:47 EST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="66" started-at="2020-01-20T20:48:47 EST" finished-at="2020-01-20T20:48:47 EST">
+      <class name="MavenPackage.MavenProject.SeleniumTest">
+        <test-method status="PASS" signature="seleniumTest1()[pri:0, instance:MavenPackage.MavenProject.SeleniumTest@60c6f5b]" name="seleniumTest1" duration-ms="7" started-at="2020-01-20T20:48:47 EST" finished-at="2020-01-20T20:48:47 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seleniumTest1 -->
+        <test-method status="PASS" signature="seleniumTest2()[pri:0, instance:MavenPackage.MavenProject.SeleniumTest@60c6f5b]" name="seleniumTest2" duration-ms="1" started-at="2020-01-20T20:48:47 EST" finished-at="2020-01-20T20:48:47 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seleniumTest2 -->
+      </class> <!-- MavenPackage.MavenProject.SeleniumTest -->
+      <class name="MavenPackage.MavenProject.RestApiTest">
+        <test-method status="PASS" signature="restApiTest1()[pri:0, instance:MavenPackage.MavenProject.RestApiTest@2038ae61]" name="restApiTest1" duration-ms="1" started-at="2020-01-20T20:48:47 EST" finished-at="2020-01-20T20:48:47 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restApiTest1 -->
+        <test-method status="PASS" signature="restApiTest2()[pri:0, instance:MavenPackage.MavenProject.RestApiTest@2038ae61]" name="restApiTest2" duration-ms="1" started-at="2020-01-20T20:48:47 EST" finished-at="2020-01-20T20:48:47 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restApiTest2 -->
+      </class> <!-- MavenPackage.MavenProject.RestApiTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
