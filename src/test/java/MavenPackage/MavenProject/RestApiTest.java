@@ -23,6 +23,9 @@ public class RestApiTest
     public void restApiTest2()
     {
         System.out.println("Print restApi2");
+        System.out.println("Print restApi2");
+        System.out.println("Print restApi2");
+        System.out.println("Print restApi2");
     }
         
 

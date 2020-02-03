@@ -19,6 +19,8 @@ public class SeleniumTest
     public void seleniumTest2()
     {
         System.out.println("Print Selenium2");
+        System.out.println("Print Selenium2");
+        System.out.println("Print Selenium2");
     }
         
 

@@ -23,5 +23,9 @@ public class AppiumTest
     public void appiumTest2()
     {
         System.out.println("Print appium2");
+        System.out.println("Print appium2");
+        System.out.println("Print appium2");
+        System.out.println("Print appium2");
+        System.out.println("Print appium2");
     }
 }
